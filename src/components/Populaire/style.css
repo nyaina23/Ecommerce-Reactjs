@@ -1,0 +1,59 @@
+.flash {
+  background-color: rgb(16, 147, 16);
+  padding: 50px 0;
+}
+
+.heading h1{
+  margin-left: 30px;
+  font-size: 28px;
+  margin-bottom: 10px;
+}
+
+
+.image-fluid{
+margin: auto;
+ 
+width: 100%;
+
+transition: 0.7s;
+
+}
+.banner-img{
+  overflow: hidden;
+  height: 350px;
+  margin-bottom: 20px;
+}
+.img{
+  overflow: hidden;
+}
+
+.image-fluid:hover{
+  transform: scale(1.1);
+}
+.remise{
+  padding: 8px 8px;
+  z-index: 999;
+}
+
+.control-btn .prev, .control-btn .next {
+  background-color: rgb(10, 163, 10);
+
+
+}
+.control-btn .next .fa-long-arrow-alt-right{
+  color: aliceblue;
+  font-size: 100px;
+  z-index: 999;
+ 
+}
+.prix .btn-orange{
+background-color: rgb(255, 213, 0);
+width: 120px;
+height: 40px;
+font-size: 13px;
+margin-top: -45px;
+
+
+}
+
+

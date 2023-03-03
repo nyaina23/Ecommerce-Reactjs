@@ -68,3 +68,35 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+Node Package Manager
+
+-package , library , bundle , dependencies
+--manao installation
+exemple :
+> npm install bootstrap@5.0.1
+> npm install jquery@5.0.1
+
+ao anaty "node_modules" rehefa vita telechargement
+
+flag ----
+rehefa misy tirer dia flag , pour preciser une action
+ex: > node -v
+
+flag : -v
+<!-- tsy maintsy asina flag -->
+npm : --save , --dev , -g
+dev , pro
+rehefa misy zavatra ilaina anaty dossier "dev , pro" samy hafa dia mampiasa "--save"
+
+>nmp install --save boostrap@5.0.1
+
+--dev : izay zavatra ilaina anaty developpement ihany
+>nmp install --dev boostrap@5.0.1
+
+-g : installation global
+>nmp install -g boostrap@5.0.1
+
+
+

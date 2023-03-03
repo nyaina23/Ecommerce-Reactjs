@@ -1,0 +1,63 @@
+.HomeSlide h1 {
+  font-size: 45px;
+  line-height: 55px;
+  margin: 50px 0 20px 0;
+}
+.HomeSlide p {
+  margin: 20px 0;
+}
+
+
+.HomeSlide ul {
+  position: absolute;
+  bottom: 20px;
+}
+.HomeSlide ul li {
+  border: 2px solid #b8b7b7;
+  border-radius: 50%;
+  padding: 10px;
+}
+.HomeSlide ul li button {
+  background: transparent !important;
+  color: transparent !important;
+}
+.HomeSlide ul li button::before {
+  font-size: 15px !important;
+  color: #0f3460;
+  position: absolute;
+  top: 2px;
+  left: 0;
+  margin: auto;
+}
+.home{
+  background-image: url("/public/images/headslide/fraise.jpg");
+  background-size:cover;
+  width: 100%;
+}
+.slide-centre {
+  margin-top: 20px;
+  margin-left: 100px;
+}
+.left h1{
+  color: white;
+ 
+  font-size: 80px;
+}
+.left p{
+  color: white;
+  font-size: 60px;
+  margin-top:-10px;
+}
+.btn-secondary{
+  background-color: yellow;
+  padding: 12px 20px;
+  font-size: 18px;
+  margin-top: 29px;
+  border-radius: 10px;
+  margin-bottom:200px;
+}
+.btn-secondary:hover{
+background-color: greenyellow;
+color: black;
+cursor: pointer;
+}
