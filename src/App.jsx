@@ -9,6 +9,8 @@ import Projet from "./projet"
 
 import Acceuil from "./acceuil"
 
+import '../src/bootstrap/css/bootstrap.min.css'
+
 function App() {
 
   return (
